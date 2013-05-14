@@ -1,6 +1,12 @@
 Changes & News
 --------------
 
+0.3.3
+~~~~~
+
+* Fork from bitbucket to github
+* Fixed issue with malformed url, github issue #1
+
 0.3.2
 ~~~~~
 
