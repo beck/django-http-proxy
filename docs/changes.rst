@@ -1,11 +1,12 @@
 Changes & News
 --------------
 
-0.3.3
+0.3.3-yola
 ~~~~~
 
 * Fork from bitbucket to github
 * Fixed issue with malformed url, github issue #1
+* Cleaned up setup.py
 
 0.3.2
 ~~~~~
